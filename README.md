@@ -1,5 +1,4 @@
 ### Olá 👋 Seja bem vindo(a)!
-![github contribution grid snake animation](https://raw.githubusercontent.com/PedroHauckk/PedroHauckk/output/github-contribution-grid-snake.svg)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroHauckk&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Hauck github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHauckk&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
